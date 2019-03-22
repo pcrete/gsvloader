@@ -1,8 +1,13 @@
 # GSVloader: Google Street View Loader 
 
+## Installation
 
+using pypi package here: https://pypi.org/project/gsvloader/
+```bash
+pip install gsvloader==0.1.5
+```
 
-# MIT License
+## MIT License
 
 Copyright (c) [2018] [Poom Wettayakorn]
 
